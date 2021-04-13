@@ -1,3 +1,7 @@
+# Deploy Server
+
+<a href="https://nomflix-4d2b9.web.app/">https://nomflix-4d2b9.web.app</a>
+
 # Nomflix
 
 Learning React and ES6 by building a Movie Discovery App.
