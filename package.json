@@ -23,8 +23,11 @@
     "start": "cross-env NODE_ENV=.env react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
+    "predeploy": "yarn run build"
   },
+  "homepage": "https://mankyung.github.io/nomflix",
   "eslintConfig": {
     "extends": [
       "react-app",
